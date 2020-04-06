@@ -1,4 +1,5 @@
-[
+{
+  "data":[
   {
     "id": 1,
     "name": "Watermelon",
@@ -13,4 +14,4 @@
     "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
     "category": "fruits"
   }
-]
+]}
