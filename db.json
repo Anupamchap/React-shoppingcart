@@ -17,100 +17,52 @@
   
   {
     "id": 3,
-    "name": "Apple - 1 Kg",
-    "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
+    "name": "Banana - 1 Dozen",
+    "price": 80,
+    "image": "https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-650-80.jpg",
     "category": "fruits"
   },
   {
     "id": 4,
-    "name": "Apple - 1 Kg",
-    "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
+    "name": "Pineapple - 1 Kg",
+    "price": 100,
+    "image": "http://www.farmbandi.com/wp-content/uploads/2018/08/Pineapple.jpg",
     "category": "fruits"
   },
   {
     "id": 5,
-    "name": "Apple - 1 Kg",
-    "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
+    "name": "Strawberry - 1 Kg",
+    "price": 2000,
+    "image": "https://www.thermofisher.com/blog/food/wp-content/uploads/sites/5/2015/08/single_strawberry__isolated_on_a_white_background.jpg",
     "category": "fruits"
   },
   {
     "id": 6,
-    "name": "Apple - 1 Kg",
-    "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
+    "name": "Pomegranate - 1 Kg",
+    "price": 80,
+    "image": "http://ucanr.edu/blogs/CCMGBlog/blogfiles/25690.jpg",
     "category": "fruits"
   },
   {
     "id": 7,
-    "name": "Apple - 1 Kg",
-    "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
+    "name": "Blue Berry - 1 Kg",
+    "price": 300,
+    "image": "https://5.imimg.com/data5/CR/CJ/MY-3040698/blueberry-fruit-500x500.jpg",
     "category": "fruits"
   },
   {
     "id": 8,
-    "name": "Apple - 1 Kg",
+    "name": "Green Apple - 1 Kg",
     "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
+    "image": "https://4.imimg.com/data4/YK/QA/ANDROID-45117192/product-250x250.jpeg",
     "category": "fruits"
   },
   {
     "id": 9,
-    "name": "Apple - 1 Kg",
+    "name": "Muskmelon - 1 Kg",
     "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
-    "category": "fruits"
-  },
-  {
-    "id": 10,
-    "name": "Apple - 1 Kg",
-    "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
-    "category": "fruits"
-  },
-  {
-    "id": 11,
-    "name": "Apple - 1 Kg",
-    "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
-    "category": "fruits"
-  },
-  {
-    "id": 12,
-    "name": "Apple - 1 Kg",
-    "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
-    "category": "fruits"
-  },
-  {
-    "id": 13,
-    "name": "Apple - 1 Kg",
-    "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
-    "category": "fruits"
-  },
-  {
-    "id": 14,
-    "name": "Apple - 1 Kg",
-    "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
-    "category": "fruits"
-  },
-  {
-    "id": 15,
-    "name": "Apple - 1 Kg",
-    "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
-    "category": "fruits"
-  },
-  {
-    "id": 16,
-    "name": "Apple - 1 Kg",
-    "price": 180,
-    "image": "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
+    "image": "https://149363026.v2.pressablecdn.com/wp-content/uploads/2018/12/E72A0205-600x400.jpg",
     "category": "fruits"
   }
+  
 ]}
