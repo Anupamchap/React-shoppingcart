@@ -1,0 +1,17 @@
+footer {
+    position: sticky;
+    height: 50px;    
+    bottom: 0;
+    width:100%;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+    background: rgb(7, 116, 219);}
+
+    a{
+        color:white;
+    }
+
+    
+  
