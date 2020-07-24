@@ -75,7 +75,6 @@ class App extends Component {
     });
   }
 
-
   // On Add to Cart
   handleAddToCart = (selectedProducts) => {
     let cartItem = this.state.cart;
@@ -130,7 +129,6 @@ class App extends Component {
     this.setState({ category: event.target.value });
     console.log(this.state.category);
   }
-
 
 
 
