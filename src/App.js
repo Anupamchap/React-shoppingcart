@@ -130,8 +130,6 @@ class App extends Component {
     console.log(this.state.category);
   }
 
-
-
   render() {
     return (
       <div className="container">
