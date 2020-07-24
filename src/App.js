@@ -75,6 +75,7 @@ class App extends Component {
     });
   }
 
+  
   // On Add to Cart
   handleAddToCart = (selectedProducts) => {
     let cartItem = this.state.cart;
