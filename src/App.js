@@ -53,6 +53,7 @@ class App extends Component {
     this.getProducts();
   }
 
+
 //total items
   sumTotalItems = () => {
     let total = 0;
