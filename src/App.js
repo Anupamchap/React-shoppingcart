@@ -51,6 +51,7 @@ class App extends Component {
   //call api when the component will mount
   componentWillMount() {
     this.getProducts();
+    
   }
 
 
